@@ -3,7 +3,7 @@
   "prefer-stable": true,
   "require": {
     "monolog/monolog": "^3.1",
-    "guzzlehttp/guzzle": "^6.5",
+    "guzzlehttp/guzzle": "^7.15",
     "nyholm/psr7": "^1.5",
     "spiral/roadrunner": "^2025.1",
     "spiral/roadrunner-http": "^2.1",
